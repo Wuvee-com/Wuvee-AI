@@ -12,10 +12,11 @@
 
 部分软件功能尚未完成优化，存在一定的BUG，正在修复中..
 
-## 📡 最新动态 2026.06.12
+
+## 📡 最新动态 2026.06.11
 
 [![空间智能](https://img.shields.io/badge/领域-空间智能-00529B)](https://wuvee.com)
-[![白皮书](https://img.shields.io/badge/技术白皮书-下载-PDF-00529B)](https://wuvee.com/support/download.html)
+[![技术白皮书](https://img.shields.io/badge/下载-技术白皮书-00529B)](https://wuvee.com/support/download.html)
 ![建筑运维](https://img.shields.io/badge/专题-智能建筑运维-2ECC71)
 
 ### 🏗️ 智能建筑 · 空间运营专题
@@ -35,6 +36,7 @@
 | 平均节能率 | 32% |
 | 运维效率提升 | 45% |
 | 工单处理时效提升 | 60% |
+
 
 
 ## 项目介绍
