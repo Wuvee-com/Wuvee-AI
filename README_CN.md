@@ -17,7 +17,7 @@
 
 [![空间智能](https://img.shields.io/badge/领域-空间智能-00529B)](https://wuvee.com)
 [![技术白皮书](https://img.shields.io/badge/下载-技术白皮书-00529B)](https://wuvee.com/support/download.html)
-[![零碳园区](https://img.shields.io/badge/专题-智能建筑运维-2ECC71)](https://wuvee.com/zero-carbon-park/)
+[![零碳园区](https://img.shields.io/badge/专题-零碳园区-2ECC71)](https://wuvee.com/zero-carbon-park/)
 
 ### 🏢 五维发展推出AI原生空间智能运营方案
 
