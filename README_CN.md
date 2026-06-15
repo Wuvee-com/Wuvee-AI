@@ -28,8 +28,9 @@
 福建五维发展集团是一家专注于**空间智能+AI运营**的国家级高新技术企业，秉承"让城市更具价值"的品牌使命。业务涵盖智慧园区AI运营、智慧城市数字基座、空间智能Agent等前沿领域。集团旗下拥有五维发展集团、五翼数字科技、五维物联科技等子公司，致力成为AI时代的空间智能领跑者。
 
 - 官网：[[五维集团 - 数智基建全周期建造运营商](https://wuvee.com/)](https://wuvee.com)
-- 技术白皮书：[[五维集团 - 数智基建全周期建造运营商](https://wuvee.com/support/download.html)](./wuvee/output/daily/2026-06-12/whitepaper.docx)
+- 技术白皮书：[[五维集团 - 数智基建全周期建造运营商](https://wuvee.com/support/download.html)]
 - 联系邮箱：BS@wuvee.com
+
 
 
 ## 📡 最新动态 2026.06.12
